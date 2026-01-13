@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Emily Huang's Portfolio ✨
 
 <!--
 **huangew/huangew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Education: Northeastern University (GPA 3.9/4.0)
+Resume: 
+
+Reach me: 
+- huang.emil@northeastern.edu
+- [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/emily-huang-art/))
+
+Find my animation and 3D art here!
+[Emily's Art Portfolio] (https://hwenxin-art.carrd.co/#home)
