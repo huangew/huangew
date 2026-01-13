@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 Education: Northeastern University (GPA 3.9/4.0)
 Resume: 
 
-Reach me: 
-- huang.emil@northeastern.edu
-- [LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/emily-huang-art/))
+Reach me here: [Email](huang.emil@northeastern.edu) OR [LinkedIn](https://www.linkedin.com/in/emily-huang-art/)
 
 Find my animation and 3D art here!
-[Emily's Art Portfolio] (https://hwenxin-art.carrd.co/#home)
+[Emily's Art Portfolio](https://hwenxin-art.carrd.co/#home)
