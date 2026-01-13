@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Education: Northeastern University (GPA 3.9/4.0)
-Resume: 
+Resume: [View Resume](huangew/EmilyHuang_CS_Resume_25.pdf)
 
 Reach me here: [Email](huang.emil@northeastern.edu) OR [LinkedIn](https://www.linkedin.com/in/emily-huang-art/)
 
